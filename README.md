@@ -18,3 +18,20 @@ You can click the Preview link to take a look at your changes.
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/4.png" width="100px" height="100px" />
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/5.png" width="100px" height="100px" />
 </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,tailwind,react,node,mongoDB)](https://skillicons.dev)
