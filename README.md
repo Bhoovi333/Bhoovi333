@@ -33,5 +33,5 @@ You can click the Preview link to take a look at your changes.
 
 
 
-
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,tailwind,react,node,mongoDB)](https://skillicons.dev)
+## MY SKILLS
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,node,mongo)](https://skillicons.dev)
