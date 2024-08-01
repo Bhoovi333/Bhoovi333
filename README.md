@@ -7,7 +7,7 @@
 
 
 ## MY SKILLS
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,git,github,html,css,bootstrap,tailwind,js,react,nodejs,mongo,express,figma,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,git,github,html,css,bootstrap,tailwind,js,react,nodejs,mongo,express,figma,postman)](https://skillicons.dev)
 
 <!---
 Bhoovi333/Bhoovi333 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
