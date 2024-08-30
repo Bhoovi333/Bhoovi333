@@ -16,10 +16,10 @@ src="https://private-user-images.githubusercontent.com/74038190/241765453-85cb95
 
 <br>
 
-
+<h3 align="left">Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img align="left" alt="Java" width="13000px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=java,c,cpp,html,css,tailwindcss,javascript,react,bootstrap,redux,nodejs,express,mongodb,git,github,heroku,vercel,postman,figma" />
+    <img align="left" alt="my skills" width="800px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=java,c,cpp,html,css,tailwindcss,javascript,react,bootstrap,redux,nodejs,express,mongodb,git,github,heroku,vercel,postman,figma" />
   </a></p> .
 
 
