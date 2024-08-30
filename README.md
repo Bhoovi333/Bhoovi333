@@ -45,7 +45,7 @@ You can click the Preview link to take a look at your changes.
 ### Profile Visitor Counter
 
 <p align="center" style="margin-top: 20px; margin-bottom: 20px;">
-  <img src="https://profile-counter.glitch.me/%7BSakshamShandilya%7D/count.svg" alt="visitor badge" width="30%">
+  <img src="https://profile-counter.glitch.me/%Bhoovi333%7D/count.svg" alt="visitor badge" width="30%">
 </p>
 
 
