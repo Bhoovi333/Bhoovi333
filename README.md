@@ -6,15 +6,6 @@ src="https://private-user-images.githubusercontent.com/74038190/241765453-85cb95
 - 🌱 I’m currently learning web development and data structures...
 - 💞️ I’m looking to collaborate on web dev projects and internships related to it...
 - 📫 mail at bhooviarora333@gmail.com
-
-
-## MY SKILLS
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,git,github,html,css,bootstrap,tailwind,js,react,nodejs,mongo,express,figma,postman)](https://skillicons.dev)
-
-<!---
-Bhoovi333/Bhoovi333 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/bhoovi333" target="blank"><img align="center" src="https://private-user-images.githubusercontent.com/74038190/241765460-cc4fe88c-7f7a-41d8-b449-34b7a178c1c6.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjUwMjQ1MTAsIm5iZiI6MTcyNTAyNDIxMCwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjU0NjAtY2M0ZmU4OGMtN2Y3YS00MWQ4LWI0NDktMzRiN2ExNzhjMWM2LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA4MzAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwODMwVDEzMjMzMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTVmNjc4NjM0YWZkNGMzODc0NWRkNTQ4YzcyODE3ZWUyN2ZkNWY0NWE0ZWVmNGMwNWIzZDYwY2QzNTY5ZjllMDcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.0XGWG_4CvovOURcxhaog86UCApa4ewBuzLc_wkRTF30" alt="bhoovi333" height="70" width="70" /></a>
@@ -22,6 +13,15 @@ You can click the Preview link to take a look at your changes.
 
 </p>
 
+
+<br>
+## MY SKILLS
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,git,github,html,css,bootstrap,tailwind,js,react,nodejs,mongo,express,figma,postman)](https://skillicons.dev)
+
+<!---
+Bhoovi333/Bhoovi333 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
 
 
 ## GSSOC(24) Badges 🪶
