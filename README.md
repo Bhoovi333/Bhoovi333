@@ -42,10 +42,26 @@ You can click the Preview link to take a look at your changes.
 
 
 
+### Profile Visitor Counter
+
+<p align="center" style="margin-top: 20px; margin-bottom: 20px;">
+  <img src="https://profile-counter.glitch.me/%7BSakshamShandilya%7D/count.svg" alt="visitor badge" width="30%">
+</p>
 
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
+<p align="center">
+  <strong>Thanks for exploring my profile!</strong>
+</p>
+
+<p align="center">
+  🚀 Check out my pinned repositories for more exciting projects. Have any questions or suggestions? Raise an issue! 📣
+</p>
+
+<p align="center">
+ If you appreciate my work, feel free to give it a ⭐️ 
+</p>
 
 
 
