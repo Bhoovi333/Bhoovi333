@@ -1,6 +1,6 @@
 
 <img align="right" alt="Coding" width="400" height="200" style="margin-top: 10px; margin-bottom: 10px;" 
-src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
+src="https://user-images.githubusercontent.com/74038170/225819708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 - 👋 Hi, I’m @Bhoovi
 - 👀 I’m interested in learning new skills and about innovations...
 - 🌱 I’m currently learning web development and data structures...
