@@ -13,23 +13,18 @@ src="https://private-user-images.githubusercontent.com/74038190/241765453-85cb95
 
 </p>
 
-
-<br>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img align="left" alt="my skills" width="800px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=java,c,cpp,html,css,tailwindcss,javascript,react,bootstrap,redux,nodejs,express,mongodb,git,github,heroku,vercel,postman,figma" />
-  </a></p> .
-
-
+  </a></p> 
 <!---
 Bhoovi333/Bhoovi333 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<br>
 
-## GSSOC(24) Badges 🪶
+
+## GSSOC(24) Badges 
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
 <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/1.png" width="100px" height="100px" />
