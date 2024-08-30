@@ -15,12 +15,12 @@ src="https://private-user-images.githubusercontent.com/74038190/241765453-85cb95
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img align="left" alt="my skills" width="800px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=c,cpp,html,css,javascript,tailwindcss,bootstrap,react,redux,nodejs,express,mongodb,git,github,heroku,netlify,vercel,postman,figma" /> </a></p> 
+    <img align="left" alt="my skills" width="800px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=c,cpp,java,html,css,javascript,tailwindcss,bootstrap,react,redux,nodejs,express,mongodb,git,github,heroku,netlify,vercel,postman,figma" /> </a></p> 
 
 <br><br><br><br>
 <br>
 <hr>
-## GSSOC(24) Badges 
+<h3>GSSOC(24) Badges</h3>  
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
 <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/1.png" width="100px" height="100px" />
