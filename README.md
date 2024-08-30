@@ -15,7 +15,7 @@ src="https://private-user-images.githubusercontent.com/74038190/241765453-85cb95
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img align="left" alt="my skills" width="800px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=java,c,cpp,html,css,tailwindcss,javascript,react,bootstrap,redux,nodejs,express,mongodb,git,github,heroku,vercel,postman,figma" /> </a></p> 
+    <img align="left" alt="my skills" width="800px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=c,cpp,html,css,javascript,tailwindcss,bootstrap,react,redux,nodejs,express,mongodb,git,github,heroku,netlify,vercel,postman,figma" /> </a></p> 
 
 <br><br><br><br>
 <br>
