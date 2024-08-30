@@ -42,11 +42,10 @@ You can click the Preview link to take a look at your changes.
 
 
 
-### Profile Visitor Counter
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<p align="center" style="margin-top: 20px; margin-bottom: 20px;">
-  <img src="https://profile-counter.glitch.me/%Bhoovi333%7D/count.svg" alt="visitor badge" width="30%">
-</p>
+<br>
 
 
 
