@@ -15,8 +15,13 @@ src="https://private-user-images.githubusercontent.com/74038190/241765453-85cb95
 
 
 <br>
-## MY SKILLS
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,git,github,html,css,bootstrap,tailwind,js,react,nodejs,mongo,express,figma,postman)](https://skillicons.dev)
+
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img align="left" alt="Java" width="13000px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=java,c,cpp,html,css,tailwindcss,javascript,react,bootstrap,redux,nodejs,express,mongodb,git,github,heroku,vercel,postman,figma" />
+  </a></p> .
+
 
 <!---
 Bhoovi333/Bhoovi333 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
