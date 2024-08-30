@@ -1,6 +1,6 @@
 
 <img align="right" alt="Coding" width="400" height="200" style="margin-top: 10px; margin-bottom: 10px;" 
-src="https://user-images.githubusercontent.com/74038170/225819708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
+src="https://private-user-images.githubusercontent.com/74038190/256977180-54fb7eef-b1e8-41dc-be97-57e4180b3b24.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjUwMjQxOTMsIm5iZiI6MTcyNTAyMzg5MywicGF0aCI6Ii83NDAzODE5MC8yNTY5NzcxODAtNTRmYjdlZWYtYjFlOC00MWRjLWJlOTctNTdlNDE4MGIzYjI0LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA4MzAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwODMwVDEzMTgxM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWVmZTQ5YzJhZTI2ZWFmOTIxZjQyZjk1YTgyODdjY2E3Y2E3Zjg5YzJiMDFhZDRmYmQzNDY0Y2U0ZDFmODQ5MzAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.Ms2cy1KR_P1otRFfWgUP8yt-s9eYZXfIlf1L2UfM10U">
 - 👋 Hi, I’m @Bhoovi
 - 👀 I’m interested in learning new skills and about innovations...
 - 🌱 I’m currently learning web development and data structures...
