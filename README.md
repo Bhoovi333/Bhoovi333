@@ -20,7 +20,7 @@ src="https://private-user-images.githubusercontent.com/74038190/241765453-85cb95
 <br><br><br><br>
 <br>
 <hr>
-<h3>GSSOC(24) Badges</h3>  
+<h3>GSSOC(24) Badges:</h3>  
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
 <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/1.png" width="100px" height="100px" />
