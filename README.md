@@ -35,12 +35,14 @@ You can click the Preview link to take a look at your changes.
 
 
 
-GET /quotes/random?tags=technology,famous-quotes
 
 
 
 
 
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
 
