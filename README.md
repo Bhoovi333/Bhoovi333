@@ -1,5 +1,5 @@
 
-<img align="right" alt="Coding" width="400" height="350" style="margin-top: 10px; margin-bottom: 10px;" 
+<img align="right" alt="Coding" width="360" height="250" style="margin-top: 10px; margin-bottom: 10px;" 
 src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/ad50585b-2e08-4f45-9836-9bb6d67e2a86">
 - 👋 Hi, I’m @Bhoovi
 - 👀 I’m interested in learning new skills and about innovations...
