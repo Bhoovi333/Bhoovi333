@@ -1,6 +1,6 @@
 
 <img align="right" alt="Coding" width="400" height="200" style="margin-top: 10px; margin-bottom: 10px;" 
-src="https://private-user-images.githubusercontent.com/74038190/241765453-85cb9521-97c0-4a65-9358-7db8099fac7f.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjUwMjQxOTMsIm5iZiI6MTcyNTAyMzg5MywicGF0aCI6Ii83NDAzODE5MC8yNDE3NjU0NTMtODVjYjk1MjEtOTdjMC00YTY1LTkzNTgtN2RiODA5OWZhYzdmLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA4MzAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwODMwVDEzMTgxM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWJkYTQxOGRmNmY2MTgwMzY0NTFkMTk4NWYyOGExMDRlZjgyMzNkMWJiM2FiNmEwMGY4NDJlOTcyOThhNWRmZTImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.n7sigqbb3dGTuHNcfwT151Ep63_30kxSBbVfnZ7oV-g">
+src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/f5d2d866-d25c-4873-8d82-425d2c62fc2e">
 - 👋 Hi, I’m @Bhoovi
 - 👀 I’m interested in learning new skills and about innovations...
 - 🌱 I’m currently learning web development and data structures...
