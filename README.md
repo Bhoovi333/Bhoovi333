@@ -16,7 +16,7 @@ src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/ad50
 <p align="center">
   <a href="https://skillicons.dev">
     <img align="left" alt="my skills" width="800px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=c,cpp,java,html,css,javascript,tailwindcss,bootstrap,react,redux,nodejs,express,mongodb,git,github,heroku,netlify,vercel,postman,figma" /> </a></p> 
-<br><br><br>
+<br><br><br><br><br><br>
 <hr>
 <h3>GSSOC(24) Badges:</h3>  
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
