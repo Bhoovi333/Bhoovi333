@@ -37,11 +37,11 @@ src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/ad50
 
 
 
-<p align="center">
 
-### ✍️ Random Dev Quote
+
+<p align="center">### ✍️ Random Dev Quote</p>
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-</p>
+
 <hr>
 
 
