@@ -18,17 +18,7 @@ src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/ad50
     <img align="left" alt="my skills" width="800px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=c,cpp,java,html,css,javascript,tailwindcss,bootstrap,react,redux,nodejs,express,mongodb,git,github,heroku,netlify,vercel,postman,figma" /> </a></p> 
 <br><br><br><br><br><br>
 <hr>
-<h3>GSSOC(24) Badges:</h3>  
-<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
-<img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/1.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/2.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/3.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/4.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/5.png" width="100px" height="100px" />
-</div>
 
-<hr>
 
 
 
